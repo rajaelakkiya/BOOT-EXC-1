@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+      margin:0px;
+      padding: 0px;
+  }
+
+  
+.nav-link:hover{
+  color: #1abc9c;
+}
+.btn.aa.img-fluid:hover
+{
+color:#1abc9c;
+}
+      
+      
+      
+button.rounded3{
+  border-radius: 10px;
+}
+#port #navbar.bg-section1 .active>a {
+  background-color: #007bff;
+}
+.bg-green{
+  background: color #1abc9c !important;
+}
+.green{
+  color: #1abc9c !important;
+}
